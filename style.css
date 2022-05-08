@@ -1,0 +1,54 @@
+body {
+	background-color: #1F2937
+}
+.hero-main-text {
+	font-size: 48px;
+	font-weight: 900;
+	color: #F9FAF8;
+}
+.header ul,
+.hero-secondary-text {
+	font-size: 18px;
+	color: #E5E7EB;
+}
+
+.header-logo-text {
+	font-size: 24px;
+	color: #F9FAF8;
+}
+button {
+	background: #3882F6;
+}
+.information-header {
+	font-size: 36px;
+	font-weight: 900;
+	color: #1F2937;
+}
+.quote-section {
+	background: #E5E7EB;
+}
+.quote {
+	font-size: 36px;
+	font-style: italic;
+	font-weight: 100;
+	color: #1F2937;
+}
+.header,
+.content-1 {
+	display: flex;
+	justify-content: space-between;
+}
+.content-1 {
+	gap: 20px;
+}
+.content-2 {
+	background: #aaaaaa;
+}
+.random-group{
+	display: flex;
+	justify-content: space-around;
+}
+.random{
+	width: 100px;
+	gap: 20px;
+}
